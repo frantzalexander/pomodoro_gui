@@ -11,6 +11,22 @@ This is a GUI featuring a timer utilizing the Pomodoro Technique to improve time
 - Create Reset Button with a Reset Timer Mechanism 
 
 ## Results
+The Timer has 3 phases:
+- Working Session
+- Short Break
+- Long Break
+
+
+The working sessions last 25 minutes each. 
+
+
+After each working session there is a 5 minute short break.
+
+
+A long break with a duration of 20 minutes occurs on every fourth break.
+
+
+Grapihcal User Interface: 
 ![image](https://github.com/frantzalexander/pomodoro_gui/assets/128331579/a187127d-a41e-48d0-98c0-95262797deec)
 
 
