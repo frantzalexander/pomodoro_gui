@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This is a GUI tool utilizing the Pomodoro Technique to aid time management.
+This is a GUI featuring a timer utilizing the Pomodoro Technique to improve time management.
 
 ## Objectives
 - Set up the User Interface
