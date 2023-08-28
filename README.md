@@ -26,7 +26,7 @@ After each working session there is a 5 minute short break.
 A long break with a duration of 20 minutes occurs on every fourth break.
 
 
-Grapihcal User Interface: 
+Graphical User Interface: 
 ![image](https://github.com/frantzalexander/pomodoro_gui/assets/128331579/a187127d-a41e-48d0-98c0-95262797deec)
 
 
